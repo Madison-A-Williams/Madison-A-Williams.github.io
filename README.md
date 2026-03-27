@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -68,7 +67,7 @@
 
     <!-- Project Card -->
     <div class="bg-gray-100 rounded-2xl overflow-hidden hover:scale-105 transition">
-      <img src="https://via.placeholder.com/400x250" class="w-full" alt="Light Box">
+      <img src="/mnt/data/image_3_0.jpeg" class="w-full" alt="Light Box">
       <div class="p-4">
         <h3 class="font-bold">9 to 5 Light Box</h3>
         <p class="text-sm">Drafting & CNC fabrication</p>
@@ -76,7 +75,7 @@
     </div>
 
     <div class="bg-gray-100 rounded-2xl overflow-hidden hover:scale-105 transition">
-      <img src="https://via.placeholder.com/400x250" class="w-full">
+      <img src="/mnt/data/image_3_0.jpeg" class="w-full">
       <div class="p-4">
         <h3 class="font-bold">X-Out Stumps</h3>
         <p class="text-sm">Drafting & Build</p>
@@ -84,7 +83,7 @@
     </div>
 
     <div class="bg-gray-100 rounded-2xl overflow-hidden hover:scale-105 transition">
-      <img src="https://via.placeholder.com/400x250" class="w-full">
+      <img src="/mnt/data/image_3_0.jpeg" class="w-full">
       <div class="p-4">
         <h3 class="font-bold">Spike Mark Automation</h3>
         <p class="text-sm">Programming & CNC</p>
@@ -92,7 +91,7 @@
     </div>
 
     <div class="bg-gray-100 rounded-2xl overflow-hidden hover:scale-105 transition">
-      <img src="https://via.placeholder.com/400x250" class="w-full">
+      <img src="/mnt/data/image_3_0.jpeg" class="w-full">
       <div class="p-4">
         <h3 class="font-bold">3D Scanning Prague</h3>
         <p class="text-sm">3D scanning + modeling</p>
@@ -100,7 +99,7 @@
     </div>
 
     <div class="bg-gray-100 rounded-2xl overflow-hidden hover:scale-105 transition">
-      <img src="https://via.placeholder.com/400x250" class="w-full">
+      <img src="/mnt/data/image_3_0.jpeg" class="w-full">
       <div class="p-4">
         <h3 class="font-bold">3D Printed Hammer</h3>
         <p class="text-sm">Product prototyping</p>
